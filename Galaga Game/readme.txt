@@ -1,4 +1,4 @@
-###Galaga Final Project.
+### Galaga Final Project.
 
 If the Game.java does not run, try running ResetHighScore.java. This will generate a high score list. I had issues with targeting the correct directory in which
 the high scores are read. I believe I placed it in the right location, but if I did not, please run ResetHighScore.java to generate a new text file.
