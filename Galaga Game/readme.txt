@@ -1,4 +1,4 @@
-Galaga Final Project.
+###Galaga Final Project.
 
 If the Game.java does not run, try running ResetHighScore.java. This will generate a high score list. I had issues with targeting the correct directory in which
 the high scores are read. I believe I placed it in the right location, but if I did not, please run ResetHighScore.java to generate a new text file.
@@ -18,8 +18,6 @@ Sound and fighter animation should be included.
 Main Menu, High Score, Game Over, and Main Game should all be included. 
 
 High scores should be saved, but can only be viewed from the inside the game. Use ResetHighScore to add in new scores if needed.
-
-Ocassionally there may be some FPS drop and the sounds will be out of sync for a bit.
 
 All sounds should be included except for fighterCapture. I believe this is from a green fighter, which is not included in this verions.
 
